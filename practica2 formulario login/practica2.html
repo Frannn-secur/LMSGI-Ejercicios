@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Formulario de alta</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="Author" content="Francisco José Gómez Ruiz" />
+    <link rel="stylesheet" href="css.css" />
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <div class="enboltorio">
+      <h1>Formulario de alta</h1>
+
+      <form>
+        <div class="Nombre">
+          <label for="Nombre">Nombre</label>
+          <input
+            type="text"
+            name="Nombre"
+            maxlength="40"
+            placeholder="Coloca tu nombre"
+          />
+        </div>
+
+        <div class="Apellidos">
+          <label for="Apellidos">Apellidos</label>
+          <input
+            type="text"
+            name="Apellidos"
+            maxlength="70"
+            placeholder="Coloca tus apellidos aqui"
+          />
+        </div>
+
+        <div class="Ciudad">
+          <label for="Ciudad">Ciudad</label>
+          <select id="Ciudad" name="Ciudad">
+            <optgroup label="España">
+              <option value="MA">Madrid</option>
+              <option value="AN">Andalucia</option>
+              <option value="BA">Barcelona</option>
+              <option value="PV">Pais Vasco</option>
+              <option value="IC">Islas Canarias</option>
+              <option value="EX">Extremadura</option>
+              <option value="IB">Islas baleares</option>
+              <option value="VA">Valencia</option>
+            </optgroup>
+          </select>
+        </div>
+
+        <div class="Observaciones">
+          <label for="Observaciones">Observaciones</label>
+          <textarea
+            name="Observaciones"
+            cols="100"
+            placeholder="Dejanos tus observaciones con respecto a este formulario"
+          ></textarea>
+        </div>
+
+        <div class="Registrar">
+          <input type="submit" name="registrar" value="registrar" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
