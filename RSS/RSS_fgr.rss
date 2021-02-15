@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Ducles Roldan</title>
+
+    <link>https://frannn-secur.github.io/LMSGI-Ejercicios/</link>
+
+    <description>Esta es la tienda tipica de roldan donde promocionaremos sus mejores dulces.</description>  
+
+    <category>Dulces clásicos</category>
+
+    <copyright>1º DAW - Francisco José Gómez Ruiz</copyright> 
+
+    <image>
+        <url>https://es.rc-cdn.community.thermomix.com/recipeimage/8nmktqym-f3241-867139-88c8b-xu6a2g68/712e73cc-aec1-4be1-88ce-1d6068431f0a/main/suizos-o-bollos-de-leche.jpg</url>
+        <title>Bollo de leche caseo </title>
+        <link>https://pasteleriasroldan.com/bolleria/</link>
+    </image>
+    <language>es-es
+
+    <skipdays>
+        <day>Saturday</day>
+        <day>Sunday</day>    
+    </skipdays>
+
+    <webMaster>a20gorufr@iesgrancapitan.org</webMaster>
+
+    <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+    </skipHours>
+
+    <item>
+        <title>El mejor dulce votado por la gente</title>
+        <description>En roldan hemos realizado una votacion de cual podria ser el mejor dulce que nosotros hemos realizado... con el fin de ver las variedades de gustos que tienen
+        nuestros consumidores, el dulce mas botado ha sido... ¡¡El negrito!!</description>
+        <link>https://pasteleriasroldan.com/bolleria/</link>
+        <enclosure url="https://youtu.be/MYJa8fID6U8">
+        <pubDate>Fr, 10 Feb 2021 15:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+        <title>Mejor bizcocho votado por la gente</title>
+        <description>En roldan hemos realizado una votacion de cual podria ser el mejor bizcpcho que nosotros hemos realizado... con el fin de ver las variedades de gustos que tienen
+        nuestros consumidores, el bizcocho mas botado ha sido... ¡¡El Muffin de Chocolate!!</description>
+        <link>https://pasteleriasroldan.com/bizcochos/</link>
+        <enclosure url="https://youtu.be/QESNi6mBWFk">
+        <pubDate>Fr, 10 Feb 2021 16:00:00 +0100</pubDate>
+        <category>Bizcochos</category>
+    </item>
+
+    <item>
+        <title>La tartan helada mas vendida ha sido...</title>
+        <description>En roldan hemos realizado un estudio de cual ha sido la tarta helada mas vendido, la cual ha sido... ¡¡Kit Kat!!</description>
+        <link>https://pasteleriasroldan.com/bizcochos/</link>
+        <enclosure url="https://youtu.be/4aw4ZtegxcY">
+        <pubDate>Fr, 10 Feb 2021 20:00:00 +0100</pubDate>
+        <category>Tartas Heladas</category>
+    </item>
+
+    <item>
+        <title>Mejor helado votado por la gente</title>
+        <description>En roldan hemos realizado una votacion de cual podria ser el mejor helado que nosotros hemos vendido en todo un años... 
+        con el fin de ver las variedades de gustos que tienen nuestros consumidores, el helado mas comprado ha sido... ¡¡El helado de Stracciatella!!</description>
+        <link>https://pasteleriasroldan.com/bizcochos/</link>
+        <enclosure url="https://youtu.be/HMBhtEAlNhI">
+        <pubDate>Fr, 10 Feb 2021 21:00:00 +0100</pubDate>
+        <category>Helados</category>
+    </item>
+
+    
+</channel>
+</rss>
