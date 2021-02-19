@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Dulces del Roldan</title>
+    <subtitle>Los mejores dulces de toda España</subtitle>
+
+    <link href="https://pasteleriasroldan.com">
+
+    <updated>2021-02-19T09:00:02Z</updated>
+    <author>
+        <name>Francisco José GómezR Ruiz</name>
+        <email>a20gorufr@iesgrancapitan.org</email>
+    </author>
+
+    <id>urn:11aa8148-c903-497e-b9e1-e19bdc81d6f8</id>
+
+    <entry>
+        <title>Dulces caseros</title>
+        <link href="https://pasteleriasroldan.com/productos/dulces-de-kilo/">
+        <id>urn:686c3c37-20b4-41af-a8d5-8c5ef1b76c97</id>
+        <updated>2021-02-19T09:00:02Z</updated>
+        <summary>Estos son los dulces caseros que vende Roldan al público</summary>
+        <enclosure url="https://youtu.be/MYJa8fID6U8"></enclosure>
+    </entry>
+    
+    <entry>
+        <title>Bizcochos caseros</title>
+        <link href="https://pasteleriasroldan.com/bizcochos/">
+        <id>urn:46d11f47-6263-4339-b6e5-b1270384965a</id>
+        <updated>2021-02-19T09:00:02Z</updated>
+        <summay>Estos son los bizcochos que vende Roldan al público</summay>
+    </entry>
+
+    <entry>
+        <title>Tartas heladas</title>
+        <link href="https://pasteleriasroldan.com/productos/tartas/heladas/">
+        <id>urn:6808249c-123f-4c3f-b1ab-aed3d63ba256</id>
+        <updated>2021-02-19T09:00:02Z</updated>
+        <summary>Estos son las tartas heladas que vende Roldan al público</summary>
+    </entry>
+
+    <entry>
+        <title>Helados Roldan</title>
+        <link href="https://pasteleriasroldan.com/productos/helados/">
+        <id>urn:cc8d5136-afe5-4591-afd0-0887d963cc3d</id>
+        <updated>2021-02-19T09:00:02Z<</updated>
+        <summary>Estos son los helados de los que dispone Roldan</summary>
+    </entry>
+</feed>
