@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DOCTYPE-->
+
+<!DOCTYPE listas_personas SYSTEM "listas_personas.dtd" [
+    
+    <!-- DTD INTERNO-->
+    <!-- <!ELEMENT listas_personas (persona, nombre, fecha_nacimiento, dia, mes, anno, sexo)>
+    <!ELEMENT persona (#PCDATA)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT fecha_nacimiento (#PCDATA)>
+    <!ELEMENT dia (#PCDATA)>
+    <!ELEMENT mes (#PCDATA)>
+    <!ELEMENT anno (#PCDATA)>
+    <!ELEMENT sexo (#PCDATA)>
+-->
+
+]>
+
+<listas_personas>
+    <persona>
+        <nombre>Antonio Moreno</nombre>
+        <fecha_nacimiento>
+            <dia>27</dia>
+            <mes>11</mes>
+            <anno>2008</anno>
+        </fecha_nacimiento>
+        <sexo>Varón</sexo>
+    </persona>
+</listas_personas>

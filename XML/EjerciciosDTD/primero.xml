@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DOCTYPE-->
+
+<!DOCTYPE receta [
+<!ELEMENT receta (titulo, ingredientes, procedimiento)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT ingredientes (#PCDATA)>
+    <!ELEMENT procedimiento (#PCDATA)>
+]>
+
+<receta> <!-- No podemos poner un nombre dentro de receta-->
+    <titulo>Lentejas</titulo>
+    <ingredientes>lentejas, chorizo, patatas...</ingredientes>
+    <procedimiento>gisas todo con mucho amor</procedimiento>
+</receta>

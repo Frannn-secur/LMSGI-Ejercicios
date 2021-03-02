@@ -1,0 +1,6 @@
+<!ELEMENT lista_de_notas (nota, para, de, titulo, contenido)>
+         <!ELEMENT nota (#PCDATA)>
+         <!ELEMENT para (#PCDATA)>           
+         <!ELEMENT de (#PCDATA)>
+         <!ELEMENT titulo (#PCDATA)>
+         <!ELEMENT contenido (#PCDATA)>

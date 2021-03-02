@@ -1,0 +1,10 @@
+<!ELEMENT listas_personas (persona, nombre, fecha_nacimiento, dia, mes, anno, sexo)>
+    
+
+    <!ELEMENT persona (#PCDATA)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT fecha_nacimiento (#PCDATA)>
+    <!ELEMENT dia (#PCDATA)>
+    <!ELEMENT mes (#PCDATA)>
+    <!ELEMENT anno (#PCDATA)>
+    <!ELEMENT sexo (#PCDATA)>

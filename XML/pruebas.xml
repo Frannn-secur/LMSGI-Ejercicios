@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hemos añadido el DOCTYPE -->
+<!DOCTYPE receta SYSTEM "DTD1.dtd">
+<receta> 
+    <titulo>...</titulo>
+    <ingredientes>...</ingredientes>
+    <procedimiento>...</procedimiento>
+</receta>

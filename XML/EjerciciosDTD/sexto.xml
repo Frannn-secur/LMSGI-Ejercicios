@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- DOCTYPE-->
+
+<!DOCTYPE matricula SYSTEM "matricula.dtd" [
+    
+    <!-- DTD INTERNO-->
+    <!-- <!ELEMENT matricula (personal,pago)>
+        <!ELEMENT personal (dni,nombre,titulacion,curso-academico,domicilios)>
+        <!ELEMENT dni (#PCDATA)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT titulacion (#PCDATA)>
+        <!ELEMENT curso-academico (#PCDATA)>
+        <!ELEMENT pago (tipo-matricula)>
+        <!ELEMENT tipo-matricula (#PCDATA)>
+        <!ELEMENT domicilios (domicilio,nombre)>
+        <!ELEMENT nombre (#PCDATA)>
+
+-->
+
+]>
+<matricula>
+<personal>
+    <dni></dni>
+    <nombre></nombre>
+    <titulacion></titulacion>
+    <curso-academico></curso-academico>
+    <domicilios>
+        <domicilio>
+            <nombreB></nombreB>
+        </domicilio>
+        <domicilio>
+            <nombreB></nombreB>
+        </domicilio>
+    </domicilios>
+</personal>
+<pago>
+    <tipo-matricula></tipo-matricula>
+</pago>
+</matricula>

@@ -1,0 +1,11 @@
+<!ELEMENT matricula (personal,pago)>
+        <!ELEMENT personal (dni,nombre,titulacion,curso-academico,domicilios)>
+        <!ELEMENT dni (#PCDATA)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT titulacion (#PCDATA)>
+        <!ELEMENT curso-academico (#PCDATA)>
+        <!ELEMENT pago (tipo-matricula)>
+        <!ELEMENT tipo-matricula (#PCDATA)>
+        <!ELEMENT domicilios (domicilio,nombreB)>
+        <!ELEMENT domicilio (#PCDATA)>
+        <!ELEMENT nombreB (#PCDATA)>
